@@ -1,0 +1,12 @@
+REDLINE RENEGADES AUTOMATED QA
+result=PASS
+route_m=2102.5
+player_progress_delta_m=220.8
+player_speed_kph=145.8
+wheel_rotation_degrees=39772.6
+wheel_axle_alignment=1.000
+wheel_rotation_valid=True
+racer_count=6
+combat_started=True
+finite_physics=True
+phase=Racing
