@@ -24,3 +24,6 @@ sysinfo.txt
 *.booproj
 *.svd
 
+# Portfolio build archive kept for download
+!Builds/
+!Builds/*.zip
