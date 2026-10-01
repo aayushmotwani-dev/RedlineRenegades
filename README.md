@@ -6,8 +6,8 @@ The second presentation pass adds a procedural late-afternoon sky, aerial perspe
 
 ## Play the Windows build
 
-1. Open `Build/Windows`.
-2. Double-click `RedlineRenegades.exe`.
+1. Download or unzip `Builds/RedlineRenegades-Windows.zip`.
+2. Double-click `RedlineRenegades.exe` inside the extracted folder.
 3. If Windows SmartScreen appears, choose **More info**, then **Run anyway**. This can happen with unsigned portfolio builds.
 4. Leave the game at 1280×720 or resize the window. The HUD scales with the window.
 5. Press **Enter** on the title screen.
@@ -30,11 +30,11 @@ No installation, Unity account or VR headset is required for the Windows build.
 
 1. Install Unity Hub and Unity Editor **6000.5.3f1** with **Windows Build Support (Mono)**.
 2. In Unity Hub choose **Add > Add project from disk**.
-3. Select this `RedlineRenegades` folder, not the `Build` folder.
+3. Select this `RedlineRenegades` folder, not the `Builds` folder.
 4. Let Unity import the project. Open `Assets/Redline/Scenes/RedlineRenegades.unity` if it is not already open.
 5. Press the Play button in the Unity toolbar.
 
-To make a fresh Windows build, use **Redline Renegades > Build Windows Demo** in Unity’s top menu. The executable is written to `Build/Windows`.
+To make a fresh Windows build, use **Redline Renegades > Build Windows Demo** in Unity’s top menu. The executable is written to `Build/Windows` (generated locally and not committed; the committed copy is `Builds/RedlineRenegades-Windows.zip`).
 
 ## What to demonstrate in an interview
 
